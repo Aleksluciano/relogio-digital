@@ -1,5 +1,4 @@
 const relogio = document.querySelector(".relogio");
-const analogico = document.querySelector("canvas");
 
 const ticktack = () => {
   const agora = new Date();
